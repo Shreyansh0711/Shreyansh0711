@@ -48,10 +48,8 @@ Backend Developer • Competitive Programmer • Problem Solver
 ### 🔐 Authentication Backend
 
 - JWT Authentication
-- Refresh Tokens
 - Email Verification
 - Google OAuth
-- Forgot Password
 
 ---
 
@@ -70,20 +68,6 @@ Backend Developer • Competitive Programmer • Problem Solver
 - Redis Cache
 - Docker
 - ioredis
-- Banner APIs
-
----
-
-
-# 📈 GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Shreyansh0711&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shreyansh0711&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
 
 ---
 
@@ -91,7 +75,7 @@ Backend Developer • Competitive Programmer • Problem Solver
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=Shreyansh0711&theme=tokyonight&hide_border=true"/>
 
 </p>
 
