@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shreyansh Pandey</h1>
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Shreyansh0711&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Shreyansh0711&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="PV" />
 </p>
 
 <p align="center">
